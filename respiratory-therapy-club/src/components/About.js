@@ -21,10 +21,9 @@ const About = forwardRef((_, ref) => {
       <section>
         <h2 className="text-2xl font-semibold mb-4">Meet Our Team</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
-          {/* Team Member 1 */}
           <div className="bg-white rounded-lg shadow-lg p-6">
             <img
-              src="/jasmeen_brarPFP.jpg"
+              src="./jasmeen_brarPFP.jpg"
               alt="Team Member 1"
               className="rounded-full w-32 h-32 mx-auto mb-4"
             />
@@ -33,7 +32,6 @@ const About = forwardRef((_, ref) => {
               Co-founder and certified baddie 🔥
             </p>
           </div>
-          {/* Team Member 2 */}
           <div className="bg-white rounded-lg shadow-lg p-6">
             <img
               src="/path-to-team-member-2.jpg"
