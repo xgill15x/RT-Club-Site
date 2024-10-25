@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RT-Club-Site/static/css/main.66edd67f.css",
-    "main.js": "/RT-Club-Site/static/js/main.72cf4dbf.js",
+    "main.css": "/RT-Club-Site/static/css/main.6e0fb640.css",
+    "main.js": "/RT-Club-Site/static/js/main.302f5af2.js",
     "static/js/453.4774d760.chunk.js": "/RT-Club-Site/static/js/453.4774d760.chunk.js",
     "index.html": "/RT-Club-Site/index.html",
-    "main.66edd67f.css.map": "/RT-Club-Site/static/css/main.66edd67f.css.map",
-    "main.72cf4dbf.js.map": "/RT-Club-Site/static/js/main.72cf4dbf.js.map",
+    "main.6e0fb640.css.map": "/RT-Club-Site/static/css/main.6e0fb640.css.map",
+    "main.302f5af2.js.map": "/RT-Club-Site/static/js/main.302f5af2.js.map",
     "453.4774d760.chunk.js.map": "/RT-Club-Site/static/js/453.4774d760.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66edd67f.css",
-    "static/js/main.72cf4dbf.js"
+    "static/css/main.6e0fb640.css",
+    "static/js/main.302f5af2.js"
   ]
 }
