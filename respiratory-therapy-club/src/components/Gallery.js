@@ -24,8 +24,8 @@ const Gallery = () => {
   };
 
   return (
-    <div className="relative mt-8 max-w-full mx-auto">
-      <div className="w-full h-48 md:h-64 flex justify-center items-center bg-gray-200 overflow-hidden rounded-lg shadow-lg">
+    <div className="relative max-w-full mx-auto">
+      <div className="w-full h-60 flex justify-center items-center bg-gray-200 overflow-hidden rounded-lg shadow-lg">
         <img
           src={images[currentIndex]}
           alt={`Gallery Image ${currentIndex + 1}`}
