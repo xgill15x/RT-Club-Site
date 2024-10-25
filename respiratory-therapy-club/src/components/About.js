@@ -46,9 +46,7 @@ const About = forwardRef((_, ref) => {
               className="rounded-full w-32 h-32 mx-auto mb-4"
             />
             <h3 className="text-xl font-bold text-center">Jasmeen Brar</h3>
-            <p className="text-gray-600 text-center">
-              Co-founder and certified baddie 🔥
-            </p>
+            <p className="text-gray-600 text-center">Co-founder</p>
           </div>
           <div className="bg-white rounded-lg shadow-lg p-6">
             <img
