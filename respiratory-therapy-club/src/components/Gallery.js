@@ -8,7 +8,7 @@ const Gallery = () => {
   useEffect(() => {
     const intervalId = setInterval(() => {
       handleNext();
-    }, 5000);
+    }, 3500);
 
     return () => clearInterval(intervalId);
   }, [images.length]);
