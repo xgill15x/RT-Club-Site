@@ -51,7 +51,7 @@ const Contact = forwardRef((_, ref) => {
   return (
     <div ref={ref} className="container mx-auto px-4 py-12">
       <h1 className="text-4xl font-bold text-center mb-8">Contact Us</h1>
-      <div className="bg-white shadow-lg rounded-lg p-6 max-w-lg mx-auto border border-gray-300">
+      <div className="bg-white shadow-lg rounded-lg p-6 max-w-lg mx-auto border border-gray-300 text-left">
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
             <label
